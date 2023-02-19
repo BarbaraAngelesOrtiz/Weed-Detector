@@ -154,10 +154,6 @@ That function loads an image from the file with the given filename . Returns tru
 
 The loader attempts to read the image using the specified format, eg PNG or JPG. If the format is not specified (which is the default), the loader polls the header file to guess the file format. In our case the image is TIF type. The file name can refer either to an actual file on disk or to one of the application's built-in resources.
 
-By default, Qt supports the following formats:
-
-![Sin título](https://user-images.githubusercontent.com/105976212/219908397-03fdb273-ec19-43d1-9461-c12ead0a82ee.png)
-
 ## 📌 Conclusion and future work and research
 
 Our program is the continuation of the implementation of the analysis of aerial images to detect these areas of weeds.
