@@ -121,7 +121,7 @@ The first thing we did was create a polygon Shapefile in Python. To later take u
 
 1) This test program consists of one polygon inside another. The Shapefile is named test and is saved to a folder that is specified in the code. If it exists, it is deleted and recreated. The code is the following:
 
-# script to add a point to a new shapefile
+[Show](README.md) script or [download](Test.cpp)
 
 This file that we call Polygon written in Python that is located inside the local drive C is executed in the console.
 
@@ -133,7 +133,7 @@ And then the file test.shp is opened, which was created in the folder TO RUN THI
 
 2) The following python code is executed on the command line, it is saved in the file called poligono2 on local disk c.
 
-###
+[download](Poligono2.py)
 
 ![image](https://user-images.githubusercontent.com/105976212/219904752-bb7d22be-cc47-4d09-b1b0-232af676c6ef.png)
 
