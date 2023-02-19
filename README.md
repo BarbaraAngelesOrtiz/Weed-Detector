@@ -156,7 +156,7 @@ The loader attempts to read the image using the specified format, eg PNG or JPG.
 
 By default, Qt supports the following formats:
 
-![Sin título](https://user-images.githubusercontent.com/105976212/219904862-12ef2d25-b0d4-4e7e-ab8f-3a69fb7bbefb.png)
+![Sin título](https://user-images.githubusercontent.com/105976212/219908397-03fdb273-ec19-43d1-9461-c12ead0a82ee.png)
 
 ## 📌 Conclusion and future work and research
 
