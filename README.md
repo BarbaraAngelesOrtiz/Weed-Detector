@@ -105,7 +105,7 @@ https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial
 
 To do this you have to download a file called "Workshop", it provides some files that are required by the tutorial.
 
-Something that should be clarified is that the windows command console does not recognize the gdal commands by itself (unless the libraries have been installed as explained here https://joseguerreroa.wordpress.com/2014/09/28 /how-to-install-gdalogr-in-windows-xp/ in which case the windows console does accept gdal commands and this procedure is not necessary) so that it recognizes gdal commands as FWtools does, you have to Run the following "setfw" batch file located in the directory where the FWtools was installed.
+Something that should be clarified is that the windows command console does not recognize the gdal commands by itself so that it recognizes gdal commands as FWtools does, you have to Run the following "setfw" batch file located in the directory where the FWtools was installed.
 
 In addition, when installing the FWtools program, a program called OpenEV is also installed that allows, among other things, to open georeferenced files.
 
