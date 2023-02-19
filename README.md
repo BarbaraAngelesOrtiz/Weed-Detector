@@ -1,9 +1,10 @@
-# Weed-Detector
+# 🌱 Weed-Detector
+
+The objective of the project is to develop an application that generates the georeferencing of an aerial image, either by Google Earth or through the operator, which introduces the latitudes and longitudes of three points, which are necessary as a minimum for georeferencing.
 
 ## ✒️Project description
 
-The objective of the project is to develop an application that generates the georeferencing of an aerial image, either by Google Earth or through the operator, which introduces the latitudes and longitudes of three points, which are necessary as a minimum for georeferencing. The purpose of georeferencing is to locate the sectors in space and to be able to carry out an analysis of the real dimensions of the areas to be sprayed.
-
+The purpose of georeferencing is to locate the sectors in space and to be able to carry out an analysis of the real dimensions of the areas to be sprayed.
 Once this is done, the application creates a map of the lot that indicates where the agrochemical should not be applied and where it should. The application detects the green areas of the image with adequate precision and then encloses these areas with polygons.
 
 These polygons make up a shapefile file, which will be downloaded to the sprayer which will perform a specific site application of the product, thus avoiding product waste or excessive spraying.
