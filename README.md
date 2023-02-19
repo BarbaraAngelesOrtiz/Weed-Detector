@@ -145,7 +145,7 @@ Then the test.shp file was opened in QGis as a result of the code execution, whi
 
 ![image](https://user-images.githubusercontent.com/105976212/219904789-856cd827-b964-44a8-bebe-422b3d3f6598.png)
 
-### The following code should be added to the work carried out by the previous fellows, to save the final image obtained after the generation of polygons and binarization, to transform said image to shapefile.
+3) The following code should be added to the work carried out by the previous fellows, to save the final image obtained after the generation of polygons and binarization, to transform said image to shapefile.
 
 bool QImage::loadFromData ( const uchar * data, int len, const char * format = 0 )
 
