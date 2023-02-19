@@ -133,7 +133,7 @@ And then the file test.shp is opened, which was created in the folder TO RUN THI
 
 2) The following python code is executed on the command line, it is saved in the file called poligono2 on local disk c.
 
-[download](Poligono2.py)
+[Show](README.md) script or [download](Poligono2.py)
 
 ![image](https://user-images.githubusercontent.com/105976212/219904752-bb7d22be-cc47-4d09-b1b0-232af676c6ef.png)
 
