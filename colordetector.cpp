@@ -21,4 +21,4 @@ cv::Mat ColorDetector::process(const cv::Mat &image, cv::Mat &result) {
 
 void ColorDetector::setDistance(int distance) {
     umb=distance;
-}
+}  
