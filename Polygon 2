@@ -1,0 +1,16 @@
+import gdal , ogr , os
+
+# Abrir el archivo raster 
+raster = gdal . Open ( 'test.tif' ) 
+banda = raster . GetRasterBand ( 1 )
+
+#create nuevo archivo shp 
+newSHPfn =  'test.shp' 
+shpDriver = ogr . GetDriverByName ( "ESRI Shapefile" ) 
+if os . path . exists ( newSHPfn ): 
+    shpDriver . DeleteDataSource ( newSHPfn ) 
+outDataSource = shpDriver . CreateDataSource ( newSHPfn ) 
+outLayer = outDataSource . CreateLayer ( newSHPfn ,geom_type = ogr.wkbLineString)
+
+# Polygonize 
+gdal . Polygonize ( banda ,  None , outLayer ,  -1 )
