@@ -183,4 +183,15 @@ For a total development, which allows its real implementation, the following imp
 
 With all the documentation that is presented, the program codes and the reference links, another group would be able to relieve the project and complete and/or improve it, achieving continuity between the research carried out at INTA and the Digital III chair, to generate an application with specific practical purposes.
 
+  ## Author
+**Bárbara Ángeles Ortiz**
+
+ <img src="https://avatars.githubusercontent.com/u/105976212?v=4" width=115><br><sub></sub>
+
+[LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
+
+![Status](https://img.shields.io/badge/status-finished-brightgreen)
+
+![Python](https://img.shields.io/badge/python-3.10-blue)
+
 
